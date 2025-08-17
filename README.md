@@ -31,10 +31,12 @@ This project is beginner-friendly and demonstrates **loops, functions, and ASCII
 
 ### Importing Required Libraries
 We import the `random` module to simulate dice rolls:
-```python
-import random
 
-**## Function to Roll Dice**
+   import random
+
+
+
+### Function to Roll Dice
 
 This function simulates rolling multiple dice:
 
